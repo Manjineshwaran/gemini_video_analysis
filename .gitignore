@@ -1,0 +1,31 @@
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+.env/
+env/
+ENV/
+
+# Build/distribution artifacts
+build/
+dist/
+*.egg-info/
+*.spec
+
+# IDE/system files
+.DS_Store
+Thumbs.db
+
+# Generated media and outputs
+output.mp4
+output/
+output_images/
+recordings/
+inputs/
+
+# Local AI/tool outputs
+ai_summaries/
